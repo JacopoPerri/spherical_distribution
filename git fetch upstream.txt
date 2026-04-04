@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 git fetch upstream
 git checkout main
+=======
+git fetch upstream
+git checkout main
+>>>>>>> f77d5133d4272411819f2790fcd8ca111dc7d2ac
 git merge upstream/main
