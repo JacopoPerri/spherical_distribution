@@ -1,0 +1,7 @@
+--- Collapse Analysis ---
+Estimated Collapsing time: 1.3200 [IU]
+Minimum radius: 0.2090 [IU]
+Check: minimum index 13 vs vel. change of sign 13
+Theoretical result: 1.1107207345395915
+Difference wrt theoretical result: 0.2092784654604085
+Relative error wrt theoretical result: 0.18841681707432717
